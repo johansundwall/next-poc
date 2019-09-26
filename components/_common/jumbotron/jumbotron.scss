@@ -1,0 +1,14 @@
+
+.subheader {
+  background-color: #fafbfc;
+  border-bottom: 1px solid #e1e4e8;
+  padding-top: 1em;
+  margin-bottom: 1em;
+
+  &_breadcrumb {
+    .breadcrumb {
+      background-color: rgba(0,0,0,0);
+      padding: 0px;
+    }
+  }
+}

@@ -1,0 +1,17 @@
+.dataset {
+  &_tabs {
+    border-bottom: 0px;
+    cursor: pointer;
+  }
+}
+
+.active .nav-item {
+  color: #495057;
+  background-color: #fff;
+  border-color: #dee2e6 #dee2e6 #fff;
+}
+
+.active .nav-item .nav-link {
+  border: 1px solid #dfdfdf;
+  border-bottom: 1px solid white;
+}
